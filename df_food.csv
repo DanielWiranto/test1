@@ -1,0 +1,336 @@
+Food,Measure,Grams,Calories,Protein,Fat,Sat.Fat,Fiber,Carbs,Category
+Cows' milk,1 qt.,976,660,32,40,36,0,48,Breakfast
+Milk skim,1 qt.,984,360,36,0,0,0,52,Breakfast
+Buttermilk,1 cup,246,127,9,5,4,0,13,Breakfast
+"Evaporated, undiluted",1 cup,252,345,16,20,18,0,24,Breakfast
+Fortified milk,6 cups,"1,419","1,373",89,42,23,1.4,119,Breakfast
+Powdered milk,1 cup,103,515,27,28,24,0,39,Breakfast
+"skim, instant",1 1/3 cups,85,290,30,0,0,0,42,Breakfast
+"skim, non-instant",2/3 cup,85,290,30,0,0,1,42,Breakfast
+Goats' milk,1 cup,244,165,8,10,8,0,11,Breakfast
+(1/2 cup ice cream),2 cups,540,690,24,24,22,0,70,Breakfast
+Cocoa,1 cup,252,235,8,11,10,0,26,Breakfast
+skim. milk,1 cup,250,128,18,4,3,1,13,Breakfast
+(cornstarch),1 cup,248,275,9,10,9,0,40,Breakfast
+Custard,1 cup,248,285,13,14,11,0,28,Breakfast
+Ice cream,1 cup,188,300,6,18,16,0,29,Breakfast
+Ice milk,1 cup,190,275,9,10,9,0,32,Breakfast
+Cream or half-and-half,1/2 cup,120,170,4,15,13,0,5,Breakfast
+or whipping,1/2 cup,119,430,2,44,27,1,3,Breakfast
+Cheese,1 cup,225,240,30,11,10,0,6,Breakfast
+uncreamed,1 cup,225,195,38,0,0,0,6,Breakfast
+Cheddar,1-in. cube,17,70,4,6,5,0,0,Breakfast
+"Cheddar, grated cup",1/2 cup,56,226,14,19,17,0,1,Breakfast
+Cream cheese,1 oz.,28,105,2,11,10,0,1,Breakfast
+Processed cheese,1 oz.,28,105,7,9,8,0,0,Breakfast
+Roquefort type,1 oz.,28,105,6,9,8,0,0,Breakfast
+Swiss,1 oz.,28,105,7,8,7,0,0,Breakfast
+Eggs raw,2,100,150,12,12,10,0,0,Breakfast
+Eggs Scrambled or fried,2,128,220,13,16,14,0,1,Breakfast
+Yolks,2,34,120,6,10,8,0,0,Lunch
+Butter,1T.,14,100,0,11,10,0,0,Lunch
+Butter,1/2 cup,112,113,114,115,116,117,118,Lunch
+Butter,1/4 lb.,112,113,114,115,116,117,118,Lunch
+Hydrogenated cooking fat,1/2 cup,100,665,0,100,88,0,0,Lunch
+Lard,1/2 cup,110,992,0,110,92,0,0,Lunch
+Margarine,1/2 cup,112,806,0,91,76,0,0,Lunch
+"Margarine, 2 pat or",1 T.,14,100,0,11,9,0,0,Lunch
+Mayonnaise,1 T.,15,110,0,12,5,0,0,Lunch
+Corn oil,1 T.,14,125,0,14,5,0,0,Lunch
+Olive oil,1T.,14,125,0,14,3,0,0,Lunch
+Safflower seed oil,1 T.,14,125,0,14,3,0,0,Lunch
+French dressing,1 T.,15,60,0,6,2,0,2,Lunch
+Thousand Island sauce,1 T.,15,75,0,8,3,0,1,Lunch
+Salt pork,2 oz.,60,470,3,55,0,0,0,Lunch
+Bacon,2 slices,16,95,4,8,7,0,1,Lunch
+Beef,3 oz.,85,245,23,16,15,0,0,Lunch
+Hamburger,3 oz.,85,245,21,17,15,0,0,Lunch
+Ground lean,3 oz.,85,185,24,10,9,0,0,Lunch
+Roast beef,3 oz.,85,390,16,36,35,0,0,Lunch
+Steak,3 oz.,85,330,20,27,25,0,0,Lunch
+"Steak, lean, as round",3 oz.,85,220,24,12,11,0,0,Lunch
+Corned beef,3 oz.,85,185,22,10,9,0,0,Lunch
+Corned beef hash canned,3 oz.,85,120,12,8,7,0,6,Lunch
+Corned beef hash Dried,2 oz.,56,115,19,4,4,0,0,Lunch
+Pot-pie,1 pie,227,480,18,28,25,0,32,Lunch
+Corned beef hash Stew,1 cup,235,185,15,10,9,0,15,Lunch
+chicken,3 oz.,85,185,23,9,7,0,0,Lunch
+"Fried, breast or leg and thigh chicken",3 oz.,85,245,25,15,11,0,0,Lunch
+Roasted chicken,3 1/2 oz.,100,290,25,20,16,0,0,Lunch
+"Chicken livers, fried",3 med.,100,140,22,14,12,0,2.30,Lunch
+"Duck, domestic",3 1/2 oz.,100,370,16,28,0,0,0,Lunch
+"Lamb, chop, broiled",4 oz.,115,480,24,35,33,0,0,Lunch
+Leg roasted,3 oz.,86,314,20,14,14,0,0,Lunch
+"Shoulder, braised",3 oz.,85,285,18,23,21,0,0,Lunch
+"Pork, chop, 1 thick",3 1/2 oz.,100,260,16,21,18,0,0,Lunch
+Ham pan-broiled,3 oz.,85,290,16,22,19,0,0,Lunch
+"Ham, as ",2 oz.,57,170,13,13,11,0,0,Lunch
+"Ham, canned, spiced",2 oz.,57,165,8,14,12,0,1,Lunch
+Pork roast,3 oz.,85,310,21,24,21,0,0,Lunch
+Pork sausage,3 1/2 oz.,100,475,18,44,40,0,0,Lunch
+Turkey,3 1/2 oz.,100,265,27,15,0,0,0,Lunch
+Veal,3 oz.,85,185,23,9,8,0,0,Lunch
+Roast,3 oz.,85,305,13,14,13,0,0,Lunch
+Clams,3 oz.,85,87,12,1,0,0,2,Dinner
+Cod,3 1/2 oz.,100,170,28,5,0,0,0,Dinner
+Crab meat,3 oz.,85,90,14,2,0,0,1,Dinner
+Fish sticks fried,5,112,200,19,10,5,0,8,Dinner
+Flounder,3 1/2 oz.,100,200,30,8,0,0,0,Dinner
+Haddock,3 oz.,85,135,16,5,4,0,6,Dinner
+Halibut,3 1/2 oz.,100,182,26,8,0,0,0,Dinner
+Herring,1 small,100,211,22,13,0,0,0,Dinner
+Lobster,aver.,100,92,18,1,0,0,0,Dinner
+Mackerel,3 oz.,85,155,18,9,0,a,0,Dinner
+Oysters,6-8 med.,230,231,232,233,234,235,236,Dinner
+Oyster stew,1 cup,85,125,19,6,1,0,0,Dinner
+Salmon,3 oz.,85,120,17,5,1,0,0,Dinner
+Sardines,3 oz.,85,180,22,9,4,0,0,Dinner
+Scallops,3 1/2 oz.,100,104,18,8,0,0,10,Dinner
+Shad,3 oz.,85,170,20,10,0,0,0,Dinner
+Shrimp,3 oz.,85,110,23,1,0,0,0,Dinner
+Swordfish,1 steak,100,180,27,6,0,0,0,Dinner
+Tuna,3 oz.,85,170,25,7,3,0,0,Dinner
+Artichoke,1 large,100,8-44,2,0,0,2,10,Breakfast
+Asparagus,6 spears,96,18,1,0,0,0.5,3,Breakfast
+Beans,1 cup,125,25,1,0,0,0.8,6,Breakfast
+Lima,1 cup,160,140,8,0,0,3.0,24,Breakfast
+"Lima, dry, cooked",1 cup,192,260,16,0,0,2,48,Breakfast
+"Navy, baked with pork",3/4 cup,200,250,11,6,6,2,37,Breakfast
+Red kidney,1 cup,260,230,15,1,0,2.5,42,Breakfast
+Bean sprouts,1 cup,50,17,1,0,0,0.3,3,Breakfast
+Beet greens,1 cup,100,27,2,0,0,1.4,6,Breakfast
+Beetroots,1 cup,165,1,12,0,0,0,0.80,Breakfast
+Broccoli,1 cup,150,45,5,0,0,1.9,8,Breakfast
+Brussels sprouts,1 cup,130,60,6,0,0,1.7,12,Breakfast
+Sauerkraut,1 cup,150,32,1,0,0,1.2,7,Breakfast
+Steamed cabbage,1 cup,170,40,2,0,0,1.3,9,Breakfast
+Carrots,1 cup,150,45,1,0,0,0.9,10,Breakfast
+"Raw, grated",1 cup,110,45,1,0,0,1.2,10,Breakfast
+"Strips, from raw",1 mad.,50,20,0,0,0,0.5,5,Breakfast
+Cauliflower,1 cup,120,30,3,0,0,1,6,Breakfast
+Celery,1 cup,100,20,1,0,0,1,4,Breakfast
+Stalk raw,1 large,40,5,1,0,0,0.3,1,Breakfast
+Chard steamed,1 cup,150,30,2,0,0,1.4,7,Breakfast
+Collards,1 cup,150,51,5,0,0,2,8,Breakfast
+Corn,1 ear,100,92,3,1,0,0.8,21,Breakfast
+cooked or canned,1 cup,200,170,5,0,0,1.6,41,Breakfast
+Cucumbers,8,50,6,0,0,0,0.2,1,Breakfast
+Dandelion greens,1 cup,180,80,5,1,0,3.2,16,Breakfast
+Eggplant,1 cup,180,30,2,0,0,1.0,9,Breakfast
+Endive,2 oz.,57,10,1,0,0,0.6,2,Breakfast
+Kale,1 cup,110,45,4,1,0,0.9,8,Lunch
+Kohlrabi,1 cup,140,40,2,0,0,1.5,9,Lunch
+"Lambs quarters, steamed",1 cup,150,48,5,0,0,3.2,7,Lunch
+Lentils,1 cup,200,212,15,0,0,2.4,38,Lunch
+Lettuce,1/4 head,100,14,1,0,0,0.5,2,Lunch
+Iceberg,1/4 head,100,13,0,0,0,0.5,3,Lunch
+Mushrooms canned,4,120,12,2,0,0,0,4,Lunch
+Mustard greens,1,140,30,3,0,0,1.2,6,Lunch
+Okra,1 1/3 cups,100,32,1,0,0,1,7,Lunch
+Onions,1,210,80,2,0,0,1.6,18,Lunch
+"Raw, green",6 small,50,22,0,0,0,1,5,Lunch
+Parsley,2 T.,50,2,0,0,0,0,0,Lunch
+Parsnips,1 cup,155,95,2,1,0,3,22,Lunch
+Peas,1 cup,100,66,3,0,0,0.1,13,Lunch
+"Fresh, steamed peas",1 cup,100,70,5,0,0,2.2,12,Dinner
+Frozen peas,1 cup,100,0,5,0,0,1.8,12,Dinner
+Split cooked peas,4 cups,100,115,8,0,0,0.4,21,Dinner
+heated peas,1 cup,100,53,3,0,0,1,10,Dinner
+Peppers canned,1 pod,38,10,0,0,0,0,2,Dinner
+"Peppers Raw, green, sweet",1 large,100,25,1,0,0,1.4,6,Dinner
+Peppers with beef and crumbs,1 med.,150,255,19,9,8,1,24,Dinner
+"Potatoes, baked",1 med.,100,100,2,0,0,0.5,22,Dinner
+French-fried,10 pieces,60,155,-1,7,3,0.4,20,Dinner
+Potatoes Mashed with milk and butter,1 cup,200,230,4,12,11,0.7,28,Dinner
+"Potatoes, pan-tried",3/4 cup,100,268,4,14,6,0.40,33,Dinner
+Scalloped with cheese potatoes,3/4 cup,100,145,6,8,7,0.40,14,Dinner
+Steamed potatoes before peeling,1 med.,100,80,2,0,0,0.40,19,Dinner
+Potato chips,10,20,110,1,7,4,0,10,Dinner
+Radishes,5 small,50,10,0,0,0,0.3,2,Dinner
+Rutabagas,4 cups,100,32,0,0,0,1.4,8,Dinner
+Soybeans,1 cup,200,260,22,11,0,3.2,20,Dinner
+Spinach,1 cup,100,26,3,0,0,1,3,Dinner
+Squash,1 cup,210,35,1,0,0,0.6,8,Dinner
+"Winter, mashed",1 cup,200,95,4,0,0,2.6,23,Dinner
+Sweet potatoes,1 med.,110,155,2,1,0,1,36,Dinner
+Candied,1 med.,175,235,2,6,5,1.5,80,Dinner
+Tomatoes,1 cup,240,50,2,0,0,1,9,Dinner
+"Raw, 2 by 2 1/2",1 med.,150,30,1,0,0,0.6,6,Dinner
+Tomato juice,1 cup,240,50,2,0,0,0.6,10,Dinner
+Tomato catsup,1 T.,17,15,0,0,0,0,4,Dinner
+Turnip greens,1 cup,145,45,4,1,0,1.8,8,Dinner
+"Turnips, steamed",1 cup,155,40,1,0,0,1.8,9,Dinner
+"Watercress stems, raw",1 cup,50,9,1,0,0,0.3,1,Breakfast
+Apple juice canned,1 cup,250,125,0,0,0,0,34,Breakfast
+Apple vinegar,1/3 cup,100,14,0,0,0,0,3,Breakfast
+"Apples, raw",1 med,130,70,0,0,0,1,18,Breakfast
+Stewed or canned,1 cup,240,100,0,0,0,2,26,Breakfast
+Apricots,1 cup,250,220,2,0,0,1,57,Breakfast
+"Dried, uncooked",1/2 cup,75,220,4,0,0,1,50,Breakfast
+Fresh,3 med.,114,55,1,0,0,0.70,14,Breakfast
+"Nectar, or juice",1 cup,250,140,1,0,0,2,36,Breakfast
+Avocado,1/2 large,108,185,2,18,12,1.80,6,Breakfast
+Banana,1 med.,150,85,1,0,0,0.9,23,Breakfast
+Blackberries,1 cup,144,85,2,1,0,6.60,19,Breakfast
+Blueberries,1 cup,250,245,1,0,0,2,65,Breakfast
+Cantaloupe,1/2 med.,380,40,1,0,0,2.20,9,Breakfast
+Cherries,1 cup,257,100,2,1,0,2,26,Breakfast
+"Fresh, raw",1 cup,114,65,1,0,0,0.8,15,Breakfast
+Cranberry sauce sweetened,1 cup,277,530,0,0,0,1.2,142,Breakfast
+Dates,1 cup,178,505,4,0,0,3.6,134,Breakfast
+Figs,2,42,120,2,0,0,1.9,30,Breakfast
+"Fresh, raw figs",3 med.,114,90,2,0,0,1,22,Breakfast
+figs Canned with syrup ,3,115,130,1,0,0,1,32,Breakfast
+"Fruit cocktail, canned",1 cup,256,195,1,0,0,0.5,50,Breakfast
+Grapefruit sections,1 cup,250,170,1,0,0,0.5,44,Lunch
+"Grapefruit, fresh, 5"" diameter",1/2,285,50,1,0,0,1,14,Lunch
+Grapefruit juice,1 cup,250,100,1,0,0,1,24,Lunch
+Grapes,1 cup,153,70,1,0,0,0.8,16,Lunch
+"European, as Muscat, Tokay",1 cup,160,100,1,0,0,0.7,26,Lunch
+Grape juice,1 cup,250,160,1,0,0,0,42,Lunch
+Lemon juice,1/2 cup,125,30,0,0,0,0,10,Lunch
+Lemonade concentratefrozen,6-oz. can,220,430,0,0,0,0,112,Lunch
+Limeade concentrate frozen,6-oz. can,218,405,0,0,0,0,108,Lunch
+Olives large,10,65,72,1,10,9,0.8,3,Lunch
+OlivesRipe,10,65,105,1,13,12,1,1,Lunch
+"Oranges 3"" diameter",1 med.,180,60,2,0,0,1,16,Lunch
+Orange juice,8 oz. or,250,112,2,0,0,0.2,25,Lunch
+Frozen ,6-oz. can,210,330,2,0,0,0.4,78,Lunch
+Papaya,1/2 med.,200,75,1,0,0,1.8,18,Lunch
+Peaches,1 cup,257,200,1,0,0,1,52,Lunch
+"Fresh, raw",1 med.,114,35,1,0,0,0.6,10,Lunch
+Pears,1 cup,255,195,1,0,0,2,50,Lunch
+"Raw, 3 by 2V",1 med.,182,100,1,1,0,2,25,Lunch
+Persimmons,1 med.,125,75,1,0,0,2,20,Lunch
+Pineapple,1 large slice,122,95,0,0,0,0.4,26,Lunch
+Pineapple Crushed,1 cup,260,205,1,0,0,0.7,55,Lunch
+"Raw, diced",1 cup,140,75,1,t',0,0.6,19,Lunch
+Pineapple juice,1 cup,250,120,1,0,0,0.2,32,Lunch
+Plums,1 cup,256,185,1,0,0,0.7,50,Lunch
+"Raw, 2"" diameter",1,60,30,0,0,0,0.2,7,Lunch
+Prunes,1 cup,270,300,3,1,0,0.8,81,Lunch
+Prune juice,1 cup,240,170,1,0,0,0.7,45,Lunch
+Raisins,1/2 cup,88,230,2,0,0,0.7,82,Dinner
+Raspberries,1/2 cup,100,100,0,0,0,2,25,Dinner
+"Raw, red",3/4 cup,100,57,0,0,0,5,14,Dinner
+Rhubarb sweetened,1 cup,270,385,1,0,0,1.9,98,Dinner
+Strawberries,1 cup,227,242,1,0,0,1.3,60,Dinner
+Raw,1 cup,149,54,0,0,0,1.9,12,Dinner
+Tangerines,I med.,114,40,1,0,0,1,10,Dinner
+Watermelon,1 wedge,925,120,2,1,0,3.6,29,Dinner
+Biscuits,1,38,130,3,4,3,0,18,Breakfast
+Bran flakes,1 cup,25,117,3,0,0,0.10,32,Breakfast
+"Bread, cracked wheat",1 slice,23,60,2,1,1,0.10,12,Breakfast
+Rye,1 slice,23,55,2,1,1,0.10,12,Breakfast
+"White, 20 slices, or",1-lb. loaf,454,"1,225",39,15,12,9.00,229,Breakfast
+Whole-wheat,1-lb. loaf,454,"1,100",48,14,10,67.50,216,Breakfast
+Whole-wheat,1 slice,23,55,2,1,0,0.31,11,Breakfast
+Corn bread ground meal,1 serving,50,100,3,4,2,0.30,15,Breakfast
+Cornflakes,1 cup,25,110,2,0,0,0.1,25,Breakfast
+Corn grits cooked,1 cup,242,120,8,0,0,0.2,27,Breakfast
+Corn meal,1 cup,118,360,9,4,2,1.6,74,Breakfast
+Crackers,2 med.,14,55,1,1,0,0,10,Breakfast
+"Soda, 2 1/2 square",2,11,45,1,1,0,0,8,Breakfast
+Farina,1 cup,238,105,3,0,0,8,22,Breakfast
+Flour,1 cup,110,460,39,22,0,2.9,33,Breakfast
+Wheat (all purpose),1 cup,110,400,12,1,0,0.3,84,Breakfast
+Wheat (whole),1 cup,120,390,13,2,0,2.8,79,Breakfast
+Macaroni,1 cup,140,155,5,1,0,0.1,32,Breakfast
+Baked with cheese,1 cup,220,475,18,25,24,0,44,Breakfast
+Muffins,1,48,135,4,5,4,0,19,Breakfast
+Noodles,1 cup,160,200,7,2,2,0.1,37,Breakfast
+Oatmeal,1 cup,236,150,5,3,2,4.6,26,Breakfast
+"Pancakes 4"" diam.",4,108,250,7,9,0,0.1,28,Breakfast
+"Wheat, pancakes 4"" diam.",4,108,250,7,9,0,0.1,28,Breakfast
+"Pizza 14"" diam.",1 section,75,180,8,6,5,0,23,Breakfast
+Popcorn salted,2 cups,28,152,3,7,2,0.5,20,Breakfast
+Puffed rice,1 cup,14,55,0,0,0,0,12,Breakfast
+Puffed wheat presweetened,1 cup,28,105,1,0,0,0.6,26,Breakfast
+Rice,1 cup,208,748,15,3,0,1.2,154,Breakfast
+Converted,1 cup,187,677,14,0,0,0.4,142,Breakfast
+White,1 cup,191,692,14,0,0,0.3,150,Breakfast
+Rice flakes,1 cup,30,115,2,0,0,0.1,26,Breakfast
+Rice polish,1/2 cup,50,132,6,6,0,1.2,28,Breakfast
+Rolls,1 large,50,411,3,12,11,0.1,23,Breakfast
+of refined flour,1,38,115,3,2,2,0,20,Breakfast
+whole-wheat,1,40,102,4,1,0,0.1,20,Breakfast
+Spaghetti with meat sauce,1 cup,250,285,13,10,6,0.50,35,Breakfast
+with tomatoes and cheese,1 cup,250,210,6,5,3,0.50,36,Breakfast
+Spanish rice,1 cup,250,217,4,4,0,1.20,40,Breakfast
+Shredded wheat biscuit,1,28,100,3,1,0,0.70,23,Breakfast
+Waffles,1,75,240,8,9,1,0.10,30,Breakfast
+Wheat germ,1 cup,68,245,17,7,3,2.50,34,Breakfast
+Wheat-germ cereal toasted,1 cup,65,260,20,7,3,2.50,36,Breakfast
+Wheat meal cereal unrefined,3/4 cup,30,103,4,1,0,0.70,25,Breakfast
+"Wheat, cooked",3/4 cup,200,275,12,1,0,4.40,35,Breakfast
+Bean soups,1 cup,250,190,8,5,4,0.60,30,Breakfast
+Beef soup,1 cup,250,100,6,4,4,0.50,11,Breakfast
+Bouillon,1 cup,240,24,5,0,0,0,0,Breakfast
+chicken soup,1 cup,250,75,4,2,2,0,10,Breakfast
+Clam chowder,1 cup,255,85,5,2,8,0.50,12,Breakfast
+Cream soups,1 cup,255,200,7,12,11,1.20,18,Breakfast
+Noodle,1 cup,250,115,6,4,3,0.20,13,Breakfast
+Split-pea soup,1 cup,250,147,8,3,3,0.50,25,Breakfast
+Tomato soup,1 cup,245,175,6,7,6,0.50,22,Breakfast
+Vegetable,1 cup,250,80,4,2,2,0,14,Breakfast
+Apple betty,1 serving,100,150,1,4,0,0.5,29,Dinner
+Bread pudding,3/4 cup,200,374,11,12,11,0.20,56,Dinner
+Cakes,1 slice,40,110,3,0,0,0,23,Dinner
+Chocolate fudge,1 slice,120,420,5,14,12,0.3,70,Dinner
+Cupcake,1,50,160,3,3,2,0,31,Dinner
+Fruit cake,1 slice,30,105,2,4,3,0.2,17,Dinner
+Gingerbread,1 slice,55,180,2,7,6,0,28,Dinner
+"Plain, with no icing",1 slice,55,180,4,5,4,0,31,Dinner
+Sponge cake,1 slice,40,115,3,2,2,0,22,Dinner
+Candy,5,25,104,0,3,3,0,19,Dinner
+Chocolate creams,2,30,130,0,4,4,0,24,Dinner
+Fudge,2 pieces,90,370,0,12,11,0.1,80,Dinner
+Hard candies,1 oz.,28,90,0,0,0,0,28,Dinner
+Marshmallows,5,30,98,1,0,0,0,23,Dinner
+Milk chocolate,2-oz. bar,56,290,2,6,6,0.2,44,Dinner
+Chocolate syrup,2 T.,40,80,0,0,0,0,22,Dinner
+Doughnuts,1,33,135,2,7,4,0,17,Dinner
+"Gelatin, made with water",1 cup,239,155,4,0,0,0,36,Dinner
+Honey,2 T.,42,120,0,0,0,0,30,Lunch
+Ice cream,2 cups,300,250,0,0,12,10,0,Dinner
+Ices,1 cup,150,117,0,0,0,0,48,Dinner
+preserves,1 T.,20,55,0,0,0,0,14,Lunch
+Jellies,1 T.,20,50,0,0,0,0,13,Lunch
+Molasses,1 T.,20,45,0,0,0,8,11,Lunch
+Cane Syrup,1 T.,20,50,0,0,0,0,13,Lunch
+"9"" diam. pie",1 slice,135,330,3,13,11,0.1,53,Dinner
+Cherry Pie,1 slice,135,340,3,13,11,0.1,55,Dinner
+Custard,1 slice,130,265,7,11,10,0,34,Dinner
+Lemon meringue,1 slice,120,300,4,12,10,0.1,45,Dinner
+Mince,1 slice,135,340,3,9,8,0.70,62,Dinner
+Pumpkin Pie,1 slice,130,265,5,12,11,8,34,Dinner
+Puddings Sugar,1 cup,200,770,0,0,0,0,199,Dinner
+3 teaspoons sugar,1 T.,12,50,0,0,0,0,12,Dinner
+"Brown, firm-packed, dark sugar",1 cup,220,815,0,0,0,0,210,Lunch
+Syrup,2 T.,40,100,0,0,0,0,25,Lunch
+table blends sugar,2 T.,40,110,0,0,0,0,29,Lunch
+Tapioca cream pudding,1 cup,250,335,10,10,9,0,42,Dinner
+Almonds,1/2 cup,70,425,13,38,28,1.8,13,Lunch
+roasted and salted,1/2 cup,70,439,13,40,31,1.8,13,Lunch
+Brazil nuts,1/2 cup,70,457,10,47,31,2,7,Lunch
+Cashews,1/2 cup,70,392,12,32,28,0.9,20,Lunch
+coconut sweetened,1/2 cup,50,274,1,20,19,2,26,Lunch
+Peanut butter,1/3 cup,50,300,12,25,17,0.9,9,Lunch
+"Peanut butter, natural",1/3 cup,50,284,13,24,10,0.9,8,Lunch
+Peanuts,1/3 cup,50,290,13,25,16,1.2,9,Lunch
+Pecans,1/2 cup,52,343,5,35,25,1.1,7,Lunch
+Sesame seeds,1/2 cup,50,280,9,24,13,3.1,10,Lunch
+Sunflower seeds,1/2 cup,50,280,12,26,7,1.9,10,Lunch
+Walnuts,1/2 cup,50,325,7,32,7,1,8,Lunch
+Beer,2 cups,480,228,0,0,0,0,8,Dinner
+Gin,1 oz.,28,70,0,0,0,0,0,Dinner
+Wines,1/2 cup,120,164,0,0,0,0,9,Dinner
+Table (12.2% alcohol),1/2 cup,120,100,0,0,0,0,5,Dinner
+Carbonated drinks Artificially sweetened,12 oz.,346,0,0,0,0,0,0,Dinner
+Club soda,12 oz.,346,0,0,0,0,0,0,Dinner
+Cola drinks,12 oz.,346,137,0,0,0,0,38,Dinner
+Fruit-flavored soda,12 oz.,346,161,0,0,0,0,42,Dinner
+Ginger ale,12 oz.,346,105,0,0,0,0,28,Dinner
+Root beer,12 oz.,346,140,0,0,0,0,35,Dinner
+Coffee,1 cup,230,3,0,0,0,0,1,Dinner
+Tea,1 cup,230,4,0,0,0,0,1,Dinner
